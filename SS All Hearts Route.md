@@ -6,8 +6,10 @@ HP = Hearpiece, GC = Goddess Cube, GCH = Godess Chest, bs = bird statue, ET = ea
 * run up the volcano, activate summit bs, collect key shards for ET, save at ET, between shard 3 & 4 hit GC on slope, collect shard 4 & 5, die
 * earth temple
 * fly to SL, place amber, talk to Wryna, get Potionshop bottle
-
-
+* fly to Lanayru, Lanayru Gorge statue, Desert entrance cs
+* BiTwarp/ShellTrick/Brakeslide
+* hit GC near cages, get HP3 in the wall when going to LMF, open LMF
+* LMF, Harp
 
 
 (SOUP DELIVERY, getting Lumpy Pumpkin HP: after visiting Faron 2nd time)
