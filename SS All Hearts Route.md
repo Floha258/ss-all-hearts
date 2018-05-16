@@ -9,7 +9,15 @@ HP = Hearpiece, GC = Goddess Cube, GCH = Godess Chest, bs = bird statue, ET = ea
 * fly to Lanayru, Lanayru Gorge statue, Desert entrance cs
 * BiTwarp/ShellTrick/Brakeslide
 * hit GC near cages, get HP3 in the wall when going to LMF, open LMF
-* LMF, Harp
+* LMF, Harp, Imp1
+* Lumpy Pumpkin, bring Chandelier down, get soup
+* fly to SL (UA), talk to Grepora, sleep to night in Academy, deliver soup
+* graveyard, start Batreuax quest, sell treasures for 300 rupees, sleep to day, windmill dialogue
+* 2 wallet upgardes from Beedle, repair Scrapper, get Wryna's crystals
+* fly to Eldin (temple entrance), get fan
+* tree bonk early Thunderhead, Isle of Songs, Farore's Courage, early Lifetree seedling, enter & exit bazaar
+* fly to Faron (itW), HP4 behind rocks, get HP5 on Rope
+* Faron Trial
 
 
 (SOUP DELIVERY, getting Lumpy Pumpkin HP: after visiting Faron 2nd time)
