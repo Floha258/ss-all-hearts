@@ -17,7 +17,9 @@ HP = Hearpiece, GC = Goddess Cube, GCH = Godess Chest, bs = bird statue, ET = ea
 * fly to Eldin (temple entrance), get fan
 * tree bonk early Thunderhead, Isle of Songs, Farore's Courage, early Lifetree seedling, enter & exit bazaar
 * fly to Faron (itW), HP4 behind rocks, get HP5 on Rope
-* Faron Trial
+* Faron Trial, sacred water, Ancient Cistern
+* IoS, FFI, Lanyru, pick up Funwheel, Lanyru Trial
+* sandsea, minecart minigame after moldarach 2 HP6, Sandship as in 100% HP7,
 
 
 (SOUP DELIVERY, getting Lumpy Pumpkin HP: after visiting Faron 2nd time)
