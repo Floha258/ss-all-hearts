@@ -19,8 +19,9 @@ HP = Hearpiece, GC = Goddess Cube, GCH = Godess Chest, bs = bird statue, ET = ea
 * fly to Faron (itW), HP4 behind rocks, get HP5 on Rope
 * Faron Trial, sacred water, Ancient Cistern
 * IoS, FFI, Lanyru, pick up Funwheel, Lanyru Trial
-* sandsea, minecart minigame after moldarach 2 HP6, Sandship as in 100% HP7,
+* sandsea, minecart minigame after moldarach 2 HP6, Sandship as in 100% HP7
+* ffi minigame HP8, life medal (1/2) on island in sw sky, din's power
+* Eldin trial, volcano summit, damage to 2 heart on fire chu, get GC in waterfall area, deathwarp with bombs
 
 
-(SOUP DELIVERY, getting Lumpy Pumpkin HP: after visiting Faron 2nd time)
 (Gratitude Crystals: Wryna, Beedle, get Beedle HP after his Gratitude Crystals with 50% off)
