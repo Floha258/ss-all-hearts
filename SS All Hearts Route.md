@@ -29,21 +29,29 @@ HP = Hearpiece, GC = Goddess Cube, GCH = Godess Chest, bs = bird statue, ET = ea
 * Lumpy Pumpkin, talk to Pum, Pumpkin carrying outside, sleep for night, get HP13, harp playing, talk to Pumm, HP14, sleep for day
 * fly to SL (Village), Batreuax (max rupees 1100), HP15, sleep to night ###avoid fi trigger for Gratitude crystals search
 * sell treasures for full 1100 rupees 
-* buy 2 stamina potions, Life Medal from Beedle
+* buy 2 stamina potions
 * get Zelda's HP16, sleep to night
 * give Fledge first potion, sleep to night, give Fledge second potion
 * sleep to day, talk to Grepora, talk to Owlan, spiral charge
 * go back to the bazaar and buy an airpotion
 * lumpy pumpkin, levias
+* fly to bug island, talk to Strich, advance missing Bug quest
 * boko base
 * get HP17 on beedle's island
 * fly to SL (waterfall), get HP18 on top of the waterfall
 * HP19 in the hut which is only accessable under water, get 100r chest next to it
+* buy Air potion in the bazaar
+* sleep to night in Beedles's bed, advance missing bug quest
+* sleep to day, buy Life Medal from Beedle
 * fly to Faron (sealed grounds), Imp3, tadtones
-*
-* imp3, tadtones
+* go back outside after water dragon, fall down to goddess cube with clawshot target
+* fly to Lanayru (gorge), minecart escort
+* boss rush (4) beginning with Ghirahim1, HP20
+* get HP21 on island next to FFI
+* talk to Levias
+* talk to Strich, missing bug quest
 
 
 
 (Gratitude Crystals: Wryna, Beedle, get Beedle HP after his Gratitude Crystals with 50% off)
-(Get HP on beedle's island between faron tadtones and boko base)
+***MISSING BUG QUEST REQUIRES FURTHER TESTING***
