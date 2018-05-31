@@ -27,9 +27,23 @@ HP = Hearpiece, GC = Goddess Cube, GCH = Godess Chest, bs = bird statue, ET = ea
 * Imp2, past, lifetree fruit, talking, present, research HP11
 * Island south of Faron HP12
 * Lumpy Pumpkin, talk to Pum, Pumpkin carrying outside, sleep for night, get HP13, harp playing, talk to Pumm, HP14, sleep for day
-* fly to SL (Village), Batreuax (max rupees 1100), HP14, sell treasures for full 1100 rupees ###avoid fi trigger for Gratitude crystals search
+* fly to SL (Village), Batreuax (max rupees 1100), HP15, sleep to night ###avoid fi trigger for Gratitude crystals search
+* sell treasures for full 1100 rupees 
 * buy 2 stamina potions, Life Medal from Beedle
+* get Zelda's HP16, sleep to night
+* give Fledge first potion, sleep to night, give Fledge second potion
+* sleep to day, talk to Grepora, talk to Owlan, spiral charge
+* go back to the bazaar and buy an airpotion
+* lumpy pumpkin, levias
+* boko base
+* get HP17 on beedle's island
+* fly to SL (waterfall), get HP18 on top of the waterfall
+* HP19 in the hut which is only accessable under water, get 100r chest next to it
+* fly to Faron (sealed grounds), Imp3, tadtones
+*
+* imp3, tadtones
 
 
 
 (Gratitude Crystals: Wryna, Beedle, get Beedle HP after his Gratitude Crystals with 50% off)
+(Get HP on beedle's island between faron tadtones and boko base)
