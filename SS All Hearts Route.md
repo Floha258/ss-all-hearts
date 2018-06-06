@@ -1,4 +1,4 @@
-HP = Hearpiece, GC = Goddess Cube, GCH = Godess Chest, bs = bird statue, ET = earth temple, SL = Skyloft
+HP = Heartpiece, GC = Goddess Cube, GCH = Godess Chest, bs = bird statue, ET = earth temple, SL = Skyloft
 * Until Bettle: As Any%, hit GC in front of Skyview
 * After Bettle: Get HP1 in Skyview (Deathwarp after 2nd visit, proabably slower on full hearts)
 * After Skyview: exit normally
@@ -53,6 +53,8 @@ HP = Hearpiece, GC = Goddess Cube, GCH = Godess Chest, bs = bird statue, ET = ea
 * sleep in Beedle's bed, advance missing bug quest, buy bugnet
 * sleep to day, fly to bug island, get HP23 in GCH
 * talk to Strich, missing bug quest
+* talk to Levias, get SOTH
+* fly SL (bazaar)
 * go to Beedle, sleep to night, complete missing bug quest
 * buy HP24
 * SL trial, Skykeep, Horde, Ghirahim, Demise
