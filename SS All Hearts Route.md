@@ -32,6 +32,7 @@ HP = Hearpiece, GC = Goddess Cube, GCH = Godess Chest, bs = bird statue, ET = ea
 * buy 2 stamina potions
 * get Zelda's HP16, sleep to night
 * give Fledge first potion, sleep to night, give Fledge second potion
+* (sleep again and get gratitude crystals?)
 * sleep to day, talk to Grepora, talk to Owlan, spiral charge
 * go back to the bazaar and buy an airpotion
 * lumpy pumpkin, levias
@@ -41,15 +42,21 @@ HP = Hearpiece, GC = Goddess Cube, GCH = Godess Chest, bs = bird statue, ET = ea
 * fly to SL (waterfall), get HP18 on top of the waterfall
 * HP19 in the hut which is only accessable under water, get 100r chest next to it
 * buy Air potion in the bazaar
-* sleep to night in Beedles's bed, advance missing bug quest
-* sleep to day, buy Life Medal from Beedle
+* go to item storage, store not-used bottle, take Life medal
+* buy Life Medal from Beedle
 * fly to Faron (sealed grounds), Imp3, tadtones
 * go back outside after water dragon, fall down to goddess cube with clawshot target
 * fly to Lanayru (gorge), minecart escort
 * boss rush (4) beginning with Ghirahim1, HP20
 * get HP21 on island next to FFI
-* talk to Levias
+* fly to SL (academy), archer minigame, HP22
+* sleep in Beedle's bed, advance missing bug quest, buy bugnet
+* sleep to day, fly to bug island, get HP23 in GCH
 * talk to Strich, missing bug quest
+* go to Beedle, sleep to night, complete missing bug quest
+* buy HP24
+* SL trial, Skykeep, Horde, Ghirahim, Demise
+***DONE***
 
 
 
