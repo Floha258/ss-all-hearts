@@ -36,6 +36,7 @@ HP = Heartpiece, GC = Goddess Cube, GCH = Godess Chest, bs = bird statue, ET = e
 * sleep to day, talk to Grepora, talk to Owlan, spiral charge
 * go back to the bazaar and buy an airpotion
 * lumpy pumpkin, levias
+* fly IoS, go in and out immediately
 * fly to bug island, talk to Strich, advance missing Bug quest
 * boko base
 * get HP17 on beedle's island
@@ -49,6 +50,7 @@ HP = Heartpiece, GC = Goddess Cube, GCH = Godess Chest, bs = bird statue, ET = e
 * fly to Lanayru (gorge), minecart escort
 * boss rush (4) beginning with Ghirahim1, HP20
 * get HP21 on island next to FFI
+* ***insert Thunderhead missing bug quest trigger here???***
 * fly to SL (academy), archer minigame, HP22
 * sleep in Beedle's bed, advance missing bug quest, buy bugnet
 * sleep to day, fly to bug island, get HP23 in GCH
@@ -58,9 +60,11 @@ HP = Heartpiece, GC = Goddess Cube, GCH = Godess Chest, bs = bird statue, ET = e
 * go to Beedle, sleep to night, complete missing bug quest
 * buy HP24
 * SL trial, Skykeep, Horde, Ghirahim, Demise
+
 ***DONE***
 
 
 
 (Gratitude Crystals: Wryna, Beedle, get Beedle HP after his Gratitude Crystals with 50% off)
+
 ***MISSING BUG QUEST REQUIRES FURTHER TESTING***
